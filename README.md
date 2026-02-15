@@ -58,7 +58,7 @@ Interpretation:
 ---
 
 ### 
-```markdown
+
 ```bash
 pip install -r requirements.txt
 notebook/Crash_Detector.ipynb
