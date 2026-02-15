@@ -1,4 +1,4 @@
-### 📉 Stock Market Crash Detector using Machine Learning
+###### 📉 Stock Market Crash Detector using Machine Learning
 
 This project detects **potential stock market crash conditions** by estimating the **probability of a significant market drop in the next 10 trading days** using historical market data and machine learning.
 
