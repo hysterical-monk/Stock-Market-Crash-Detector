@@ -62,3 +62,7 @@ Interpretation:
 ```bash
 pip install -r requirements.txt
 notebook/Crash_Detector.ipynb
+
+--------------------
+
+![Crash Probability](images/crash_probability.png)
